@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://mayurstwt.github.io/csb-6hfy0h/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://mayurstwt.github.io/csb-6hfy0h/static/js/main.60a6c443.chunk.js",
-    "main.js.map": "https://mayurstwt.github.io/csb-6hfy0h/static/js/main.60a6c443.chunk.js.map",
+    "main.js": "https://mayurstwt.github.io/csb-6hfy0h/static/js/main.cebaf291.chunk.js",
+    "main.js.map": "https://mayurstwt.github.io/csb-6hfy0h/static/js/main.cebaf291.chunk.js.map",
     "runtime-main.js": "https://mayurstwt.github.io/csb-6hfy0h/static/js/runtime-main.fd503c7f.js",
     "runtime-main.js.map": "https://mayurstwt.github.io/csb-6hfy0h/static/js/runtime-main.fd503c7f.js.map",
     "static/js/2.f2751fe0.chunk.js": "https://mayurstwt.github.io/csb-6hfy0h/static/js/2.f2751fe0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.fd503c7f.js",
     "static/js/2.f2751fe0.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.60a6c443.chunk.js"
+    "static/js/main.cebaf291.chunk.js"
   ]
 }
